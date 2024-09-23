@@ -1,1 +1,3 @@
 SELECT * FROM mitablita
+
+MI PRIMER QUERY
